@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">realtime</string>
+    <string name="Enter_Details">Enter Details</string>
+    <string name="name">Enter Yor Name</string>
+    <string name="Email">Enter Your Email</string>
+    <string name="submit">Insert Data</string>
+</resources>
